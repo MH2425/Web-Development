@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "chrome",
+      "name": "http://127.0.0.1:3000/Sectio8-AdvancedCSS/8.1+CSS+Float/8.1 CSS Float/index.html",
+      "request": "launch",
+      "url": "http://127.0.0.1:3000/Sectio8-AdvancedCSS/8.1+CSS+Float/8.1 CSS Float/index.html"
+    }
+  ]
+}
